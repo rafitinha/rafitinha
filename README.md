@@ -1,4 +1,13 @@
-### Opa! Putz! - "É vixe atrás de eita!"👋
+### "É vixe atrás de eita!" 	:face_with_spiral_eyes:
+
+**opa&**\
+**oxi&**\
+**putz&**\
+**eita&**\
+**vixe**
+
+  
+
 
 <!--
 **rafitinha/rafitinha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,7 +25,8 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 Hoje trabalho com Java
-- 🌱 Estundando Front-End (JavaScript, CSS, React, React Native) / Back-End (Node.js e Spring)
+- 🌱 Estundando Front-End (JavaScript, CSS, React, React Native) / Back-End (Node.js e Spring) / UI & Disigner (FIGMA)
+- 🤞 Em fase de transição de carreira e em busca da primeira oportunidade ✨✨✨✨✨✨✨
 - 😄 Pronouns: Ele/Dele/Dale
 
 <div align="center">
@@ -30,6 +40,10 @@ Here are some ideas to get you started:
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Rafa-SASS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/sass/sass-original.svg">
+  <img align="center" alt="Rafa-FIGMA" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/figma/figma-original.svg">
+  <img align="center" alt="Rafa-VisualStudio" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/visualstudio/visualstudio-plain.svg">
+ <img align="center" alt="Rafa-VSCode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/vscode/vscode-original.svg">
 </div>
   
 ##
