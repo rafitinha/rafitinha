@@ -1,4 +1,4 @@
-### Opa! Putz! 👋
+### Opa! Putz! - "É vixe atrás de eita!"👋
 
 <!--
 **rafitinha/rafitinha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
